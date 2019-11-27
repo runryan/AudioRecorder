@@ -1,0 +1,23 @@
+PODS:
+  - AudioRecorder (0.0.2):
+    - SwiftCommonTools2
+  - SwiftCommonTools2 (0.0.5)
+
+DEPENDENCIES:
+  - AudioRecorder (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SwiftCommonTools2
+
+EXTERNAL SOURCES:
+  AudioRecorder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AudioRecorder: e017e25bd28c76af776f3704032cf738d6b9c52a
+  SwiftCommonTools2: 38689677b037c8542b7d54601066c3747ca7da8f
+
+PODFILE CHECKSUM: 44cb029ba1f4b78a44e34a807d419e07f77bf23b
+
+COCOAPODS: 1.8.3
